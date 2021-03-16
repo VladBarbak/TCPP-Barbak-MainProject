@@ -9,6 +9,7 @@ namespace lab2_TCPP
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello1 World!");
         }
     }
 }
