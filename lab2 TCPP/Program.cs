@@ -6,7 +6,7 @@ namespace lab2_TCPP
     {
         static void Main(string[] args)
         {
-            // Вирішено 08 04 21
+            // Вирішено 08 04 2021
             Console.WriteLine("Hello World from IDE!");
             Console.WriteLine("Hello World from browser!");
             
